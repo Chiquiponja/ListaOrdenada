@@ -1,0 +1,7 @@
+C:\Users\prisc\source\repos\ListaOrdenada\ListaOrdenada\bin\Debug\ListaOrdenada.exe.config
+C:\Users\prisc\source\repos\ListaOrdenada\ListaOrdenada\bin\Debug\ListaOrdenada.exe
+C:\Users\prisc\source\repos\ListaOrdenada\ListaOrdenada\bin\Debug\ListaOrdenada.pdb
+C:\Users\prisc\source\repos\ListaOrdenada\ListaOrdenada\obj\Debug\ListaOrdenada.csprojAssemblyReference.cache
+C:\Users\prisc\source\repos\ListaOrdenada\ListaOrdenada\obj\Debug\ListaOrdenada.csproj.CoreCompileInputs.cache
+C:\Users\prisc\source\repos\ListaOrdenada\ListaOrdenada\obj\Debug\ListaOrdenada.exe
+C:\Users\prisc\source\repos\ListaOrdenada\ListaOrdenada\obj\Debug\ListaOrdenada.pdb
